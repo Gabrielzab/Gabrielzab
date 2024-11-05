@@ -1,16 +1,12 @@
-## Hi there 👋
+## Olá, eu sou Gabriel Abreu! 👋
+## 🎓 Sobre Mim
+Sou aluno do IFCE e estou iniciando minha jornada no GitHub.
 
-<!--
-**Gabrielzab/Gabrielzab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projetos Acadêmicos:
+Projeto 1: Projeto de Programação Orientada a Objetos usando a Linguagem de Programação JAVA.
+Projeto 2: Projeto de Desenvolvimento WEB I usando a Linguagem de Marcação HTML.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo:
+Java
+Python
+HTML5
